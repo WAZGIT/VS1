@@ -12,6 +12,7 @@ namespace VS1
         {
             Console.WriteLine("Hello world...");
             Console.WriteLine("Welcome");
+            Console.ReadLine();
         }
     }
 }
